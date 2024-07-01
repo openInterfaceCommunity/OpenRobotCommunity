@@ -9,11 +9,11 @@ QQ群1群:
 目前首推:  
 https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html
 
-----
+
 
 以下是一些主要的ARM芯片供应商及其选型页面的网址，你可以通过这些网站详细了解各供应商的ARM芯片产品，并根据你的需求进行选型：
 
-STMicroelectronics (STM32系列)
+**STMicroelectronics (STM32系列)**
 
 选型页面：https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html
 NXP (LPC系列和i.MX系列)
